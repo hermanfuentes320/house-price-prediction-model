@@ -22,3 +22,8 @@ The objective is therefore to ensure that the final model is not only accurate, 
 
 
 ![Texto alternativo](/uml.jpg)
+
+Excel summary documenting the steps followed throughout the project, it is created automatically.
+
+![Texto alternativo](/excel_summary.jpg)
+
